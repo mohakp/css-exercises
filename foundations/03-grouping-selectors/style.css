@@ -1,0 +1,14 @@
+.birdie {
+    background-color: black;
+    color: white;
+}
+
+.non-birdie {
+    background-color: yellow;
+}
+
+.birdie, 
+.non-birdie {
+    font-size: 28px;
+    font-family: "Helvetica","Times New Roman",sans-serif;
+}
